@@ -1,4 +1,4 @@
-![profile] (https://github.com/shashi1910/shashi1910/blob/main/png_20230528_134858_0000.png)
+![profile](https://github.com/shashi1910/shashi1910/blob/main/png_20230528_134858_0000.png)
 
 # Hi there 👋 I am Shashi Pargaonkar
 I am a Student and a Web Developer from India. I am currently learning about Mobile App Development.
