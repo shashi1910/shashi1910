@@ -2,8 +2,8 @@
 I am a Student and a Web Developer from India. I am currently learning about Mobile App Development.
 
 ## Skills :
-⚛️ REACT 
-💻 JS, HTML, CSS
+⚛️ REACT <br>
+💻 JS, HTML, CSS <br>
 🐍 Python
 
 
