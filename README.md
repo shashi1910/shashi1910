@@ -1,5 +1,5 @@
 # Hi there 👋 
-## I am Shashi Pargaonkar
+I am Shashi Pargaonkar
 I am a Student and a Web Developer from India. I am currently learning about Mobile App Development.
 
 ## Skills :
@@ -16,4 +16,4 @@ I am a Student and a Web Developer from India. I am currently learning about Mob
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shashi1910&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/shashi1910)  
+
