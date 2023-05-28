@@ -7,7 +7,7 @@ I am a Student and a Web Developer from India. I am currently learning about Mob
 💻 JS, HTML, CSS
 🐍 Python
 
-- 🔭 I’m currently working on this page. 
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shashi1910)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shashi-pargaonkar-377140220/)  
