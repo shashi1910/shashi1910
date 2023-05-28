@@ -1,5 +1,4 @@
-# Hi there 👋 
-I am Shashi Pargaonkar
+# Hi there 👋 I am Shashi Pargaonkar
 I am a Student and a Web Developer from India. I am currently learning about Mobile App Development.
 
 ## Skills :
