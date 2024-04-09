@@ -13,6 +13,9 @@
 
  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashi1910)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashi1910&show_icons=true&locale=en&layout=compact" alt="shashi1910" /></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shashi1910&show_icons=true)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashi1910&show_icons=true&locale=en" alt="shashi1910" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashi1910&" alt="shashi1910" /></p>
+  
