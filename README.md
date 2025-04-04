@@ -1,4 +1,4 @@
-<img src="https://github.com/shashi1910/shashi1910/blob/main/png_20230528_134858_0000.png" width="100%" />
+<img src="https://github.com/shashi1910/shashi1910/blob/main/Encrypt. Defend. Deploy..png" width="100%" />
 
 <h2 align="center">Hey there! I'm Shashi 👋</h2>
 <h3 align="center">Cybersecurity enthusiast with a strong foundation in web development. Passionate about cryptography, network security, and building secure digital solutions.</h3>
